@@ -1,9 +1,23 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+## Hey 👋, I'm Kofi Nutefe!  
   
 
-### <div align="center">I'm Nutefe, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017🚀</div>  
+<a href="https://github.com/Nutefe" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Kofi Nutefe Gbeze" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+
+
+### Glad to see you here!  
+I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, servers.  
+
+<br/>
+
+
+## Rapidfire
   
 
 - 🔭 I’m currently working on [Github S2A TECHNOLOGY](https://github.com/s2atechnology)🚨💺💺  
@@ -77,20 +91,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Nutefe" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Kofi Nutefe Gbeze" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</td></tr></table>   
   
 
 <br/>  
