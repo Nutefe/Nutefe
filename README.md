@@ -20,7 +20,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire
   
 
-- 🔭 I’m currently working on [Github S2A TECHNOLOGY](https://github.com/s2atechnology)🚨💺💺  
+- 🔭 I’m currently working on [Github CYBERETHIK](https://www.cyberethik.com/)🚨💺💺  
   
 
 - 🌱 I’m currently learning expessjs and mongodb  
